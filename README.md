@@ -127,15 +127,11 @@ This project offers valuable insights into the New York Airbnb market, helping b
 
 ---
 
-## License
-This project is open-source and licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify the code.
-
 ---
 
 ## Contact
 For any queries, feel free to reach out at:
-- **YouTube**: [@Zero_Analyst](https://www.youtube.com/@Zero_Analyst)  
-- **GitHub**: [Your GitHub](https://github.com/your-repo)  
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)  
+- **GitHub**: [Your GitHub](https://github.com/Harikesh-Prajapati)  
+- **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/harikesh-prajapati-05034027a)  
 
 ---
