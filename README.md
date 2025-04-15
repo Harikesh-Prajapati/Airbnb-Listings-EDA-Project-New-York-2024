@@ -131,6 +131,7 @@ This project offers valuable insights into the New York Airbnb market, helping b
 
 ## Contact
 - **GitHub**: [Your GitHub](https://github.com/Harikesh-Prajapati)  
-- **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/harikesh-prajapati-05034027a)  
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/harikesh-prajapati-05034027a)
+)  
 
 ---
